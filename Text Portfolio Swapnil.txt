@@ -1,0 +1,66 @@
+Frontend development
+Good
+
+CSS 50%
+JS 20%
+Wordpress 30%
+Wix 20%
+
+Backend Development
+Python 40%
+
+
+Developer Tools 
+
+Improves Perform of the Website's
+✔️Page Weight, Response Time, YSlow Grade
+YSlow i sperformance Tool
+Page Weight and Response Time are highly Related
+Adding more or larger components to the page makes it slow.
+Large and more images make site slow. Compress the images.
+
+HTTP request chart analysis
+
+---
+Response Time : time from when the request is initiated to when the page's onload event fires.
+
+Each URL was measured
+thousands of times over low broadband (56K-512K); the
+average value is what is shown here.
+
+---
+Firebug to analyse JS and CSS. Firebug is critical tool for any front-end engineer.
+
+---
+SEO 
+1. URL Optimization : put primary Keywords in the url 
+2. Keyword Research : semrush 
+3. Image Optimization 
+
+YSlow crawls the page's DOM to find all the components in the
+page. It uses XMLHttpRequest to find the response time and
+size of each component, as well as the HTTP response headers.
+
+
+-----
+Add a far future Expires header to their components (ruel 3 ).
+Expires header ?
+Stylesheets and scripts should be gzipped.
+Minify scripts. Further savings could be gained by removing all comments and extraneous carriage returns.
+
+
+
+target attribute in html
+
+make background change, in contrast to primary color.  Whatever will be the primary color it shoul dbe in contrast
+
+
+
+
+Portfolio Projects 
+1. Ecommerse ✔️ visit => https://swapn7038.github.io/E-com/
+2. Fresh Meal ✔️ visit => https://swapn7038.github.io/freah-Meal-/
+3. Geetai Institute ✔️ https://swapn7038.github.io/geetai-project/
+4. University Easy Tutorial   https://swapn7038.github.io/UniversityWebsite/
+5. Food Delivery Website Udemy ✔️ visit => https://swapn7038.github.io/food/  Link :youtube => https://youtu.be/KIrW9n46db0
+6. SpaceX Link ✔️ : youtube => https://youtu.be/JkJBZeBgJNo

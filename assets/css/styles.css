@@ -326,7 +326,9 @@ img {
 
 .home__title {
   font-size: var(--big-font-size);
+  text-shadow: 2px 2px rgb(0, 42, 255), 4px 4px rgb(255, 255, 255);
 }
+
 .home__subtitle {
   font-size: var(--h3-font-size);
   color: var(--text-color);

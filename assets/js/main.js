@@ -11,18 +11,20 @@ if (navToggle) {
   });
 }
 
-// This is also works
+// This also works
 // navToggle.addEventListener("click", () => {
 //   navMenu.classList.toggle("show-menu");
 // });
 
-/*===== MENU HIDDEN =====*/
+/*==================== MENU HIDDEN ====================*/
+
 /* Validate if constant exists */
 if (navClose) {
   navClose.addEventListener("click", () => {
     navMenu.classList.remove("show-menu");
   });
 }
+
 /*==================== REMOVE MENU MOBILE ====================*/
 const navLink = document.querySelectorAll(".nav__link");
 
@@ -55,6 +57,7 @@ skillsHeader.forEach((el) => {
 });
 
 /*==================== QUALIFICATION TABS ====================*/
+
 const tabs = document.querySelectorAll("[data-target]");
 const tabContents = document.querySelectorAll("[data-content]");
 
@@ -99,6 +102,7 @@ modalCloses.forEach((modalCloses) => {
     });
   });
 });
+
 /*==================== PORTFOLIO SWIPER  ====================*/
 
 let swiperPortfolio = new Swiper(".portfolio__container", {

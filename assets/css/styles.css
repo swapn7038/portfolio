@@ -578,7 +578,7 @@ section.about .about__buttons a:first-child {
 }
 
 .skills__wordpress {
-  width: 50%;
+  width: 30%;
 }
 
 .skills__wix {
@@ -590,18 +590,22 @@ section.about .about__buttons a:first-child {
 }
 
 .skills__php {
-  width: 40%;
+  width: 50%;
 }
 
 .skills__node {
-  width: 60%;
+  width: 40%;
 }
 
 .skills__firebase {
-  width: 90%;
+  width: 20%;
 }
 
 .skills__python {
+  width: 55%;
+}
+
+.skills__laravel {
   width: 55%;
 }
 
